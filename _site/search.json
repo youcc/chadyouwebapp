@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Chad You",
     "section": "",
-    "text": "Hi there!\nI’m Chad You, Sr Database Administrator at VUMC Health Policy, where I lead the Research Data Core team.\nProfessionaly, I love teaching healthcare analytics, researching digital health, and developing data solutions.\nIf you’d like to learn more about what I do, check out one of my projects:\n\nHealthcare Analytics Handbook, is the place to start if you want to learn how to do analytics in healthcare.\nToday I Learned, where I save the tricks I learned.\n\nOutside of work, I love to practice Aikido at Nashville Aikikai."
+    "text": "Hi there!\nI’m Chad You, Sr Database Administrator at VUMC Health Policy, where I lead the Data Core team.\nProfessionaly, I love teaching healthcare analytics, researching digital health, and developing data solutions.\nIf you’d like to learn more about what I do, check out one of my projects:\n\nHealthcare Analytics Handbook, is the place to start if you want to learn data analytics in healthcare.\nToday I Learned, where I share something new I learned every day.\n\nOutside of work, I love to practice Aikido at Nashville Aikikai."
   },
   {
     "objectID": "posts.html",
@@ -18,6 +18,6 @@
     "href": "posts/20240608_welcome/index.html",
     "title": "Welcome to my blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nI’ve used WordPress and Blogger in the past. It’s quit difficult to make changes in the template sometimes. Quarto makes so many things easier."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nI’ve used WordPress and Blogger in the past. It’s quit difficult to customize sometimes. Quarto makes so many things easier."
   }
 ]

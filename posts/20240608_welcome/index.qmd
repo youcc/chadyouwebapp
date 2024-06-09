@@ -10,4 +10,4 @@ This is the first post in a Quarto blog. Welcome!
 
 ![](welcome_banner.jfif)
 
-I've used WordPress and Blogger in the past. It's quit difficult to make changes in the template sometimes. Quarto makes so many things easier.  
+I've used WordPress and Blogger in the past. It's quit difficult to customize sometimes. Quarto makes so many things easier.  

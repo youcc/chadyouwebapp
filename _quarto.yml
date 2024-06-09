@@ -7,6 +7,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - posts.qmd # add your posts.qmd file to your navbar!
+  page-footer: 
+    background: light
+    left: © Chad You. All rights reserved.
+    right: This website is built with [Quarto](https://quarto.org)
 
 format:
   html:

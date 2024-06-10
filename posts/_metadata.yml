@@ -7,5 +7,5 @@ freeze: auto
 title-block-banner: true
 
 comments: 
-  hypothesis: 
-    theme: clean
+  utterances: 
+    repo: youcc/blog_comments

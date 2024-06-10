@@ -11,7 +11,7 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to my blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nChad You\n\n\n\n\n\n\nNo matching items"
+    "text": "How to create a personal website using Quarto and Azure\n\n\n\n\n\n\nhowto\n\n\nQuarto\n\n\nAzure\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nChad You\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/20240608_welcome/index.html",
@@ -40,5 +40,12 @@
     "title": "Bear With AI",
     "section": "",
     "text": "BearWith.ai is your one-stop destination for all things AI! 🤖 Whether you’re a tech enthusiast, a data scientist, or just curious about artificial intelligence, this website has it all. From insightful articles to interactive tutorials, you name it. Check it out now.\n🔗 Bear With AI"
+  },
+  {
+    "objectID": "posts/20240610_create_website/index.html",
+    "href": "posts/20240610_create_website/index.html",
+    "title": "How to create a personal website using Quarto and Azure",
+    "section": "",
+    "text": "Here are the basics about how to create a personal website using Quarto and Azure.\n\nBuy a domain on namecheap.com.\nCreate a website project using Quarto.\nPublish your project to GitHub.\nCreate a static web app using Azure Static Web Apps.\nSet up domain DNS in namecheap.com."
   }
 ]

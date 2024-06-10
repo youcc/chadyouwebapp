@@ -5,10 +5,15 @@ website:
   title: "Chad You"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - posts.qmd # add your posts.qmd file to your navbar!
-      - resources.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        file: posts.qmd
+      - text: "Resources"
+        file: resources.qmd
+      - text: "Consulting"
+        href: https://calendly.com/chadyou
+        
   page-footer: 
     background: light
     left: © Chad You. All rights reserved.

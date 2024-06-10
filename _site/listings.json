@@ -4,5 +4,11 @@
     "items": [
       "/posts/20240608_welcome/index.html"
     ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/1/index.html"
+    ]
   }
 ]

@@ -1,0 +1,13 @@
+---
+title: "Frank Nielsen’s book collection"
+date: "2024-06-09"
+categories: [ebook, AI, stats, ML]# self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](1.jfif)
+
+Looking for curated FREE book lists? Check out Frank Nielsen’s collection! From visual computing to Artificial Intelligence, explore a treasure trove of knowledge. 🤓
+
+
+🔗 [Frank Nielsen Books](https://franknielsen.github.io/Books/CuratedBookLists.html)  

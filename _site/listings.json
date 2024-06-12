@@ -12,5 +12,12 @@
       "/resources/2/index.html",
       "/resources/1/index.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/20240610_create_website/index.html",
+      "/blog/20240608_welcome/index.html"
+    ]
   }
 ]

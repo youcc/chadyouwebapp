@@ -47,5 +47,26 @@
     "title": "How to create a personal website using Quarto and Azure",
     "section": "",
     "text": "Here are the basics about how to create a personal website using Quarto and Azure.\n\nBuy a domain on namecheap.com.\nCreate a website project using Quarto.\nPublish your project to GitHub.\nCreate a static web app using Azure Static Web Apps.\nSet up domain DNS in namecheap.com."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "How to create a personal website using Quarto and Azure\n\n\n\n\n\n\nhowto\n\n\nQuarto\n\n\nAzure\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nChad You\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/20240608_welcome/index.html",
+    "href": "blog/20240608_welcome/index.html",
+    "title": "Welcome to my blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nI’ve used WordPress and Blogger in the past. It’s quit difficult to customize sometimes. Quarto makes so many things easier."
+  },
+  {
+    "objectID": "blog/20240610_create_website/index.html",
+    "href": "blog/20240610_create_website/index.html",
+    "title": "How to create a personal website using Quarto and Azure",
+    "section": "",
+    "text": "Here are the basics about how to create a personal website using Quarto and Azure.\n\nBuy a domain on namecheap.com.\nCreate a website project using Quarto.\nPublish your project to GitHub.\nCreate a static web app using Azure Static Web Apps.\nSet up domain DNS in namecheap.com."
   }
 ]

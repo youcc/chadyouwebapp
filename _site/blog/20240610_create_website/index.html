@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Chad You">
-<meta name="dcterms.date" content="2024-06-08">
+<meta name="dcterms.date" content="2024-06-10">
 
-<title>Chad You – Welcome to my blog</title>
+<title>Chad You – How to create a personal website using Quarto and Azure</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -95,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../posts.html"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -117,9 +117,11 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Welcome to my blog</h1>
+      <h1 class="title">How to create a personal website using Quarto and Azure</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">news</div>
+                <div class="quarto-category">howto</div>
+                <div class="quarto-category">Quarto</div>
+                <div class="quarto-category">Azure</div>
               </div>
                   </div>
   </div>
@@ -137,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">June 8, 2024</p>
+        <p class="date">June 10, 2024</p>
       </div>
     </div>
     
@@ -158,9 +160,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="welcome_banner.jfif" class="img-fluid"></p>
-<p>I’ve used WordPress and Blogger in the past. It’s quit difficult to customize sometimes. Quarto makes so many things easier.</p>
+<p>Here are the basics about how to create a personal website using Quarto and Azure.</p>
+<ol type="1">
+<li><p>Buy a domain on <a href="https://www.namecheap.com/">namecheap.com</a>.</p></li>
+<li><p><a href="https://quarto.org/docs/websites/">Create a website project using Quarto</a>.</p></li>
+<li><p>Publish your project to GitHub.</p></li>
+<li><p>Create a static web app using Azure Static Web Apps.</p></li>
+<li><p>Set up domain DNS in namecheap.com.</p></li>
+</ol>
 
 
 
@@ -257,7 +264,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/www\.chadyou\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

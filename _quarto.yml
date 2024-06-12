@@ -8,11 +8,12 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Blog"
-        file: posts.qmd
+        file: blog.qmd
       - text: "Resources"
         file: resources.qmd
       - text: "Consulting"
         href: https://calendly.com/chadyou
+  site-url: https://www.chadyou.com
         
   page-footer: 
     background: light

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Chad You</title>
+<link>https://www.chadyou.com/blog.html</link>
+<atom:link href="https://www.chadyou.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.42</generator>
+<lastBuildDate>Mon, 10 Jun 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>How to create a personal website using Quarto and Azure</title>
+  <dc:creator>Chad You</dc:creator>
+  <link>https://www.chadyou.com/blog/20240610_create_website/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Here are the basics about how to create a personal website using Quarto and Azure.</p>
+<ol type="1">
+<li><p>Buy a domain on <a href="https://www.namecheap.com/">namecheap.com</a>.</p></li>
+<li><p><a href="https://quarto.org/docs/websites/">Create a website project using Quarto</a>.</p></li>
+<li><p>Publish your project to GitHub.</p></li>
+<li><p>Create a static web app using Azure Static Web Apps.</p></li>
+<li><p>Set up domain DNS in namecheap.com.</p></li>
+</ol>
+
+
+
+ ]]></description>
+  <category>howto</category>
+  <category>Quarto</category>
+  <category>Azure</category>
+  <guid>https://www.chadyou.com/blog/20240610_create_website/</guid>
+  <pubDate>Mon, 10 Jun 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome to my blog</title>
+  <dc:creator>Chad You</dc:creator>
+  <link>https://www.chadyou.com/blog/20240608_welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://www.chadyou.com/blog/20240608_welcome/welcome_banner.jfif" class="img-fluid"></p>
+<p>I’ve used WordPress and Blogger in the past. It’s quit difficult to customize sometimes. Quarto makes so many things easier.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://www.chadyou.com/blog/20240608_welcome/</guid>
+  <pubDate>Sat, 08 Jun 2024 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

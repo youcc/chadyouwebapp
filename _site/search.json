@@ -25,7 +25,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Bear With AI\n\n\n\n\n\n\nAI\n\n\nwebsite\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Nielsen’s book collection\n\n\n\n\n\n\nebook\n\n\nAI\n\n\nstats\n\n\nML\n\n\n\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Population Health Curriculum\n\n\n\n\n\n\ncourse\n\n\nwebsite\n\n\npopulation health\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBear With AI\n\n\n\n\n\n\nAI\n\n\nwebsite\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Nielsen’s book collection\n\n\n\n\n\n\nebook\n\n\nAI\n\n\nstats\n\n\nML\n\n\n\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources/1/index.html",
@@ -68,5 +68,12 @@
     "title": "How to create a personal website using Quarto and Azure",
     "section": "",
     "text": "Here are the basics about how to create a personal website using Quarto and Azure.\n\nBuy a domain on namecheap.com.\nCreate a website project using Quarto.\nPublish your project to GitHub.\nCreate a static web app using Azure Static Web Apps.\nSet up domain DNS in namecheap.com."
+  },
+  {
+    "objectID": "resources/3/index.html",
+    "href": "resources/3/index.html",
+    "title": "Population Health Curriculum",
+    "section": "",
+    "text": "The Robert Graham Center, HealthLandscape, American Board of Family Medicine, and Community Health Center, Inc. collaborated to develop this curriculum aimed to introduce health care professionals to population health concepts and tools. Resources include slides and note sets, three case studies with sample data, and a performance improvement activity.\n🔗 Population Health Curriculum"
   }
 ]

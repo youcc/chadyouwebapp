@@ -14,7 +14,6 @@ website:
       - text: "Consulting"
         href: https://calendly.com/chadyou
   site-url: https://www.chadyou.com
-  margin-header: subscribe.html
         
   page-footer: 
     background: light

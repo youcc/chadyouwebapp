@@ -6,6 +6,8 @@ freeze: auto
 # enable banner style title blocks (see https://quarto.org/docs/authoring/title-blocks.html)
 title-block-banner: true
 
+margin-header: subscribe.html
+
 comments: 
   utterances: 
     repo: youcc/blog_comments

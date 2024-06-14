@@ -53,7 +53,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "How to make your scientific data accessible, discoverable and useful\n\n\n\n\n\n\ndata\n\n\nmanagement\n\n\nnature\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nThe Great CEO Within\n\n\n\n\n\n\nebook\n\n\nleadership\n\n\nCEO\n\n\nChinese\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive 2024 KIDS Count Data Book\n\n\n\n\n\n\ndata\n\n\nwebsite\n\n\nhealth\n\n\nebook\n\n\nvisualization\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation Health Curriculum\n\n\n\n\n\n\ncourse\n\n\nwebsite\n\n\npopulation\n\n\nhealth\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBear With AI\n\n\n\n\n\n\nAI\n\n\nwebsite\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create a personal website using Quarto and Azure\n\n\n\n\n\n\nhowto\n\n\nQuarto\n\n\nAzure\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Nielsen’s free ebook collection\n\n\n\n\n\n\nfree\n\n\nebook\n\n\nAI\n\n\n\n\n\n\n\n\n\nJun 9, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nChad You\n\n\n\n\n\n\nNo matching items"
+    "text": "How to make your scientific data accessible, discoverable and useful\n\n\n\n\n\n\ndata\n\n\nmanagement\n\n\nnature\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImmPort Shared Data\n\n\n\n\n\n\ndata\n\n\nimmunology\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nThe Great CEO Within\n\n\n\n\n\n\nebook\n\n\nleadership\n\n\nCEO\n\n\nChinese\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive 2024 KIDS Count Data Book\n\n\n\n\n\n\ndata\n\n\nwebsite\n\n\nhealth\n\n\nebook\n\n\nvisualization\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation Health Curriculum\n\n\n\n\n\n\ncourse\n\n\nwebsite\n\n\npopulation\n\n\nhealth\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBear With AI\n\n\n\n\n\n\nAI\n\n\nwebsite\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create a personal website using Quarto and Azure\n\n\n\n\n\n\nhowto\n\n\nQuarto\n\n\nAzure\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Nielsen’s free ebook collection\n\n\n\n\n\n\nfree\n\n\nebook\n\n\nAI\n\n\n\n\n\n\n\n\n\nJun 9, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nChad You\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/20240608_welcome/index.html",
@@ -159,5 +159,12 @@
     "title": "How to make your scientific data accessible, discoverable and useful",
     "section": "",
     "text": "How to make your scientific data accessible, discoverable and useful?\nCheck out these seven tips for effectively sharing your data, which is published on Nature.\nSeven tips:\n- Craft metadata\n- Over-share\n- Embrace standards\n- Consider the format\n- Include code\n- Think accessibility\n- Take the plunge\n🔗 How to make your scientific data accessible, discoverable and useful"
+  },
+  {
+    "objectID": "blog/20240614-immunology-open-data/index.html",
+    "href": "blog/20240614-immunology-open-data/index.html",
+    "title": "ImmPort Shared Data",
+    "section": "",
+    "text": "ImmPort Shared Data, open-access immunology datasets created by NIH and other investigators.\n🔗 ImmPort Shared Data"
   }
 ]

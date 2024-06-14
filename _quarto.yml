@@ -12,6 +12,7 @@ website:
       - text: "Consulting"
         href: https://calendly.com/chadyou
   site-url: https://www.chadyou.com
+  favicon: images/ucc_favicon.ico
         
   page-footer: 
     background: light

@@ -1,7 +1,7 @@
 ---
 title: "Population Health Curriculum"
 date: "2024-06-12"
-categories: [course, website, population health]# self-defined categories
+categories: [course, website, population, health]# self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -9,4 +9,4 @@ The Robert Graham Center, HealthLandscape, American Board of Family Medicine, an
 
 🔗 [Population Health Curriculum](https://www.graham-center.org/maps-data-tools/pop-health-curriculum.html)  
 
-![](3.jpg)
+![](20240612.jpg)

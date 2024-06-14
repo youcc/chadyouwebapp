@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Chad You">
+<meta name="dcterms.date" content="2024-06-09">
 
-<title>Chad You – Blog</title>
+<title>Chad You – Frank Nielsen’s free ebook collection</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,68 +68,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Chad You" href="blog.xml" data-external="1"></head>
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
 <body class="nav-fixed">
 
@@ -138,7 +80,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Chad You</span>
     </a>
   </div>
@@ -149,11 +91,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -170,305 +112,203 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Blog</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Frank Nielsen’s free ebook collection</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">free</div>
+                <div class="quarto-category">ebook</div>
+                <div class="quarto-category">AI</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Chad You </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 9, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<!-- Begin Brevo Form -->
+<!-- START - We recommend to place the below code in head tag of your website html  -->
+<style>
+    @font-face {
+      font-display: block;
+      font-family: Roboto;
+      src: url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+    }
+  
+    @font-face {
+      font-display: fallback;
+      font-family: Roboto;
+      font-weight: 600;
+      src: url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+    }
+  
+    @font-face {
+      font-display: fallback;
+      font-family: Roboto;
+      font-weight: 700;
+      src: url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+    }
+  
+    #sib-container input:-ms-input-placeholder {
+      text-align: left;
+      font-family: "Helvetica", sans-serif;
+      color: #c0ccda;
+    }
+  
+    #sib-container input::placeholder {
+      text-align: left;
+      font-family: "Helvetica", sans-serif;
+      color: #c0ccda;
+    }
+  
+    #sib-container textarea::placeholder {
+      text-align: left;
+      font-family: "Helvetica", sans-serif;
+      color: #c0ccda;
+    }
+  
+    #sib-container a {
+      text-decoration: underline;
+      color: #2BB2FC;
+    }
+  </style>
+  <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+  <!--  END - We recommend to place the above code in head tag of your website html -->
+  
+  <!-- START - We recommend to place the below code where you want the form in your website html  -->
+  <div class="sib-form" style="text-align: center;
+           background-color: #EFF2F7;                                 ">
+    <div id="sib-form-container" class="sib-form-container">
+      <div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;max-width:540px;">
+        <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+          <svg viewbox="0 0 512 512" class="sib-icon sib-notification__icon">
+            <path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z"></path>
+          </svg>
+          <span class="sib-form-message-panel__inner-text">
+                            Your subscription could not be saved. Please try again.
+                        </span>
+        </div>
+      </div>
+      <div></div>
+      <div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-color:#13ce66;max-width:540px;">
+        <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+          <svg viewbox="0 0 512 512" class="sib-icon sib-notification__icon">
+            <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"></path>
+          </svg>
+          <span class="sib-form-message-panel__inner-text">
+                            Your subscription has been successful.
+                        </span>
+        </div>
+      </div>
+      <div></div>
+      <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid; direction:ltr">
+        <form id="sib-form" method="POST" action="https://fe9d88f2.sibforms.com/serve/MUIFALqhZFO4tDJC9xCRoYYEcRPh5ZUKGdeugTlchwM8-uUmdL8rkqRrMsyqd1o9EO8rPdKzaUTCMWnmMkFzcF4VhyGczuEZgCm7bQL1zbKZn1KoHUD6f5Lpxmmp1CHo9PHFzE8HpTUHOYU208rQmcCpnQJ0Z5xyT4kE72DUlhX9irqfC1ARYxO2KE3zGY8cuAfKSuOPKVdduFFk" data-type="subscription">
+          <div style="padding: 8px 0;">
+            <div class="sib-form-block" style="font-size:21px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
+              <p>Subscribe</p>
+            </div>
+          </div>
+          <div style="padding: 8px 0;">
+            <div class="sib-input sib-form-block">
+              <div class="form__entry entry_block">
+                <div class="form__label-row ">
+  
+                  <div class="entry__field">
+                    <input class="input " type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required="">
+                  </div>
+                </div>
+  
+                <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+                </label>
+              </div>
+            </div>
+          </div>
+          <div style="padding: 8px 0;">
+            <div class="sib-form-block" style="text-align: left">
+              <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:14px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#3E4857; border-radius:5px; border-width:0px;" form="sib-form" type="submit">
+                <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewbox="0 0 512 512">
+                  <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"></path>
+                </svg>
+                SUBSCRIBE
+              </button>
+            </div>
+          </div>
+  
+          <input type="text" name="email_address_check" value="" class="input--hidden">
+          <input type="hidden" name="locale" value="en">
+        </form>
+      </div>
+    </div>
+  </div>
+  <!-- END - We recommend to place the above code where you want the form in your website html  -->
+  
+  <!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+  <script>
+    window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+    window.LOCALE = 'en';
+    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  
+    window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+  
+    window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  
+  
+  
+  
+    window.translation = {
+      common: {
+        selectedList: '{quantity} list selected',
+        selectedLists: '{quantity} lists selected'
+      }
+    };
+  
+    var AUTOHIDE = Boolean(0);
+  </script>
+  
+  <script defer="" src="https://sibforms.com/forms/end-form/build/main.js"></script>
+  
+  
+  <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
+  <!-- End Brevo Form -->
+   
+</div></div>
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Azure">Azure <span class="quarto-category-count">(1)</span></div><div class="category" data-category="CEO">CEO <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="course">course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data">data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ebook">ebook <span class="quarto-category-count">(3)</span></div><div class="category" data-category="free">free <span class="quarto-category-count">(1)</span></div><div class="category" data-category="health">health <span class="quarto-category-count">(2)</span></div><div class="category" data-category="howto">howto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="leadership">leadership <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="population">population <span class="quarto-category-count">(1)</span></div><div class="category" data-category="visualization">visualization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(3)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p><img src="20240609.jfif" class="img-fluid"></p>
+<p>Looking for curated FREE ebook lists? Check out Frank Nielsen’s collection! From visual computing to Artificial Intelligence, explore a treasure trove of knowledge. 🤓</p>
+<p>🔗 <a href="https://franknielsen.github.io/Books/CuratedBookLists.html">Frank Nielsen’s Free ebooks</a></p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ebook,leadership,CEO" data-listing-date-sort="1718254800000" data-listing-file-modified-sort="1718334767358" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="228">
-<div class="thumbnail">
-<p><a href="./blog/20240613-great-ceo-coach/index.html" class="no-external"></a></p><a href="./blog/20240613-great-ceo-coach/index.html" class="no-external">
-<p class="card-img-top"><img src="blog\20240613-great-ceo-coach\20240613.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./blog/20240613-great-ceo-coach/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/20240613-great-ceo-coach/index.html" class="no-external">The Great CEO Within</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/20240613-great-ceo-coach/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('ebook'); return false;">
-ebook
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('leadership'); return false;">
-leadership
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('CEO'); return false;">
-CEO
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/20240613-great-ceo-coach/index.html" class="no-external">The book “The Great CEO Within” is a compendium of solutions for tech startup CEOs. Written by a coach who works with Silicon Valley CEOs, it addresses common challenges…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/20240613-great-ceo-coach/index.html" class="no-external">
-<div class="listing-date">
-Jun 13, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="data,website,health,ebook,visualization" data-listing-date-sort="1718168400000" data-listing-file-modified-sort="1718334894764" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
-<div class="thumbnail">
-<p><a href="./blog/20240612-interactive-kids-count-data-book/index.html" class="no-external"></a></p><a href="./blog/20240612-interactive-kids-count-data-book/index.html" class="no-external">
-<p class="card-img-top"><img src="blog\20240612-interactive-kids-count-data-book\202406122.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./blog/20240612-interactive-kids-count-data-book/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/20240612-interactive-kids-count-data-book/index.html" class="no-external">Interactive 2024 KIDS Count Data Book</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/20240612-interactive-kids-count-data-book/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('data'); return false;">
-data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
-website
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('health'); return false;">
-health
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ebook'); return false;">
-ebook
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
-visualization
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/20240612-interactive-kids-count-data-book/index.html" class="no-external">Children’s good health is fundamental to their overall development, and ensuring kids are born healthy is the first step toward improving their life chances. Exposure to…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/20240612-interactive-kids-count-data-book/index.html" class="no-external">
-<div class="listing-date">
-Jun 12, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="course,website,population,health" data-listing-date-sort="1718168400000" data-listing-file-modified-sort="1718335021985" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56">
-<div class="thumbnail">
-<p><a href="./blog/20240612-population-health-course/index.html" class="no-external"></a></p><a href="./blog/20240612-population-health-course/index.html" class="no-external">
-<p class="card-img-top"><img src="blog\20240612-population-health-course\20240612.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./blog/20240612-population-health-course/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/20240612-population-health-course/index.html" class="no-external">Population Health Curriculum</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/20240612-population-health-course/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('course'); return false;">
-course
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
-website
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('population'); return false;">
-population
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('health'); return false;">
-health
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/20240612-population-health-course/index.html" class="no-external">The Robert Graham Center, HealthLandscape, American Board of Family Medicine, and Community Health Center, Inc.&nbsp;collaborated to develop this curriculum aimed to introduce…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/20240612-population-health-course/index.html" class="no-external">
-<div class="listing-date">
-Jun 12, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="AI,website" data-listing-date-sort="1717995600000" data-listing-file-modified-sort="1718334962451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="47">
-<div class="thumbnail">
-<p><a href="./blog/20240610-bear-with-ai/index.html" class="no-external"></a></p><a href="./blog/20240610-bear-with-ai/index.html" class="no-external">
-<p class="card-img-top"><img src="blog\20240610-bear-with-ai\202406102.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./blog/20240610-bear-with-ai/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/20240610-bear-with-ai/index.html" class="no-external">Bear With AI</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/20240610-bear-with-ai/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
-AI
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
-website
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/20240610-bear-with-ai/index.html" class="no-external">BearWith.ai is your one-stop destination for all things AI! 🤖 Whether you’re a tech enthusiast, a data scientist, or just curious about artificial intelligence, this…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/20240610-bear-with-ai/index.html" class="no-external">
-<div class="listing-date">
-Jun 10, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="howto,Quarto,Azure" data-listing-date-sort="1717995600000" data-listing-file-modified-sort="1718334136174" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
-<div class="thumbnail">
-<p><a href="./blog/20240610-create-website-using-quarto-azure/index.html" class="no-external"></a></p><a href="./blog/20240610-create-website-using-quarto-azure/index.html" class="no-external">
-<p class="card-img-top"><img src="blog\20240610-create-website-using-quarto-azure\202406101.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./blog/20240610-create-website-using-quarto-azure/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/20240610-create-website-using-quarto-azure/index.html" class="no-external">How to create a personal website using Quarto and Azure</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/20240610-create-website-using-quarto-azure/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('howto'); return false;">
-howto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Azure'); return false;">
-Azure
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/20240610-create-website-using-quarto-azure/index.html" class="no-external">Here are the basics about how to create a personal website using Quarto and Azure.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/20240610-create-website-using-quarto-azure/index.html" class="no-external">
-<div class="listing-date">
-Jun 10, 2024
-</div>
-<div class="listing-author">
-Chad You
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="free,ebook,AI" data-listing-date-sort="1717909200000" data-listing-file-modified-sort="1718333938495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
-<div class="thumbnail">
-<p><a href="./blog/20240609-frank-nielsen-free-ebook-collection/index.html" class="no-external"></a></p><a href="./blog/20240609-frank-nielsen-free-ebook-collection/index.html" class="no-external">
-<p class="card-img-top"><img src="blog\20240609-frank-nielsen-free-ebook-collection\20240609.jfif"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./blog/20240609-frank-nielsen-free-ebook-collection/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/20240609-frank-nielsen-free-ebook-collection/index.html" class="no-external">Frank Nielsen’s free ebook collection</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/20240609-frank-nielsen-free-ebook-collection/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('free'); return false;">
-free
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ebook'); return false;">
-ebook
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
-AI
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/20240609-frank-nielsen-free-ebook-collection/index.html" class="no-external">Looking for curated FREE ebook lists? Check out Frank Nielsen’s collection! From visual computing to Artificial Intelligence, explore a treasure trove of knowledge. 🤓</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/20240609-frank-nielsen-free-ebook-collection/index.html" class="no-external">
-<div class="listing-date">
-Jun 9, 2024
-</div>
-<div class="listing-author">
-Chad You
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="news" data-listing-date-sort="1717822800000" data-listing-file-modified-sort="1718213286609" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
-<div class="thumbnail">
-<p><a href="./blog/20240608-welcome/index.html" class="no-external"></a></p><a href="./blog/20240608-welcome/index.html" class="no-external">
-<p class="card-img-top"><img src="blog\20240608-welcome\welcome_banner.jfif"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./blog/20240608-welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/20240608-welcome/index.html" class="no-external">Welcome to my blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/20240608-welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/20240608-welcome/index.html" class="no-external">This is the first post in a Quarto blog. Welcome!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/20240608-welcome/index.html" class="no-external">
-<div class="listing-date">
-Jun 8, 2024
-</div>
-<div class="listing-author">
-Chad You
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -888,6 +728,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://utteranc.es/client.js" repo="youcc/blog_comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 <footer class="footer">

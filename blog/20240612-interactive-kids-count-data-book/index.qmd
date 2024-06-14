@@ -1,7 +1,7 @@
 ---
-title: "Interactive 2024 KIDS Data Book"
+title: "Interactive 2024 KIDS Count Data Book"
 date: "2024-06-12"
-categories: [data, website, health, book, data visualization]# self-defined categories
+categories: [data, website, health, ebook, visualization]# self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -11,4 +11,4 @@ Learn more in the 2024 KIDS COUNT Data Book.
 
 🔗 [Interactive 2024 Data Book - Health](https://www.aecf.org/interactive/databook?d=h)  
 
-![](4.jpg)
+![](202406122.jpg)

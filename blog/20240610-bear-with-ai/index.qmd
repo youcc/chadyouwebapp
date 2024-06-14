@@ -5,7 +5,7 @@ categories: [AI, website]# self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-![](2.jpg)
+![](202406102.jpg)
 
 BearWith.ai is your one-stop destination for all things AI! 🤖 Whether you’re a tech enthusiast, a data scientist, or just curious about artificial intelligence, this website has it all. From insightful articles to interactive tutorials, you name it. Check it out now.
 

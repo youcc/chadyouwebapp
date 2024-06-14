@@ -9,6 +9,7 @@
   {
     "listing": "/resources.html",
     "items": [
+      "/resources/5/index.html",
       "/resources/3/index.html",
       "/resources/4/index.html",
       "/resources/2/index.html",
@@ -18,8 +19,13 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/blog/20240610_create_website/index.html",
-      "/blog/20240608_welcome/index.html"
+      "/blog/20240613-great-ceo-coach/index.html",
+      "/blog/20240612-interactive-kids-count-data-book/index.html",
+      "/blog/20240612-population-health-course/index.html",
+      "/blog/20240610-bear-with-ai/index.html",
+      "/blog/20240610-create-website-using-quarto-azure/index.html",
+      "/blog/20240609-frank-nielsen-free-ebook-collection/index.html",
+      "/blog/20240608-welcome/index.html"
     ]
   }
 ]

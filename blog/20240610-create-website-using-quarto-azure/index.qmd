@@ -6,6 +6,8 @@ categories: [howto, Quarto, Azure] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+![](202406101.jpg)
+
 Here are the basics about how to create a personal website using Quarto and Azure.
 
 1. Buy a domain on [namecheap.com](https://www.namecheap.com/).

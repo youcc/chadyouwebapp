@@ -9,8 +9,6 @@ website:
         href: index.qmd
       - text: "Blog"
         file: blog.qmd
-      - text: "Resources"
-        file: resources.qmd
       - text: "Consulting"
         href: https://calendly.com/chadyou
   site-url: https://www.chadyou.com

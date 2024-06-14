@@ -1,7 +1,7 @@
 ---
 title: "The Great CEO Within"
 date: "2024-06-13"
-categories: [ebook, leadership, CEO]# self-defined categories
+categories: [ebook, leadership, CEO, Chinese]# self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -37,3 +37,5 @@ Feel free to explore the book further, and if you have any other requests, just 
 🔗 [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.2siiy6su96eq)  
 
 ![](20240613.jpg)
+
+中文版: [CEO修炼手册](https://rngzej6pnb.feishu.cn/docx/ZIjjdVkXyowZrMxH8pZci9z9npg)

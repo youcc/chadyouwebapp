@@ -10,7 +10,59 @@
 <atom:link href="https://www.chadyou.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.42</generator>
-<lastBuildDate>Fri, 14 Jun 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Jun 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unlocking Data Maturity: A Journey Toward Data-as-a-Product</title>
+  <link>https://www.chadyou.com/blog/20240616-unlocking-data-maturity-journey-data-as-a-product/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="unlocking-data-maturity-a-journey-toward-data-as-a-product" class="level1">
+<h1><strong>Unlocking Data Maturity: A Journey Toward Data-as-a-Product</strong></h1>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction"><strong>Introduction</strong></h2>
+<p>In the ever-evolving landscape of data management, the concept of the data mesh has gained significant traction. But how do organizations practically embark on this transformation? Olivier Wulveryck sheds light on a novel approach that combines evolutionary thinking with data maturity. Buckle up as we explore the path to treating data as a product!</p>
+</section>
+<section id="the-four-pillars-of-data-mesh" class="level2">
+<h2 class="anchored" data-anchor-id="the-four-pillars-of-data-mesh"><strong>The Four Pillars of Data Mesh</strong></h2>
+<ol type="1">
+<li><p><strong>Domain-Oriented Design</strong>: Start by aligning your data mesh with existing organizational structures. Think of it as laying the groundwork for a comprehensive understanding of your data landscape.</p></li>
+<li><p><strong>Data-as-a-Product</strong>: Imagine data as a tangible product, with clear ownership, quality standards, and value propositions. This mindset shift is crucial for successful data mesh adoption.</p></li>
+<li><p><strong>Federated Computational Governance</strong>: Simplify development by enabling self-service data platforms. These platforms empower teams to create interconnections seamlessly.</p></li>
+<li><p><strong>Self-Service Data Platforms</strong>: These platforms are enablers, supporting the data mesh vision. They allow teams to access, explore, and utilize data efficiently.</p></li>
+</ol>
+</section>
+<section id="applying-evolutionary-models-to-data" class="level2">
+<h2 class="anchored" data-anchor-id="applying-evolutionary-models-to-data"><strong>Applying Evolutionary Models to Data</strong></h2>
+<p>Drawing inspiration from Simon Wardley’s evolution model, we visualize data maturity within a business context. Here’s how it works:</p>
+<ol type="1">
+<li><p><strong>Data Acquisition</strong>: Prepare data for easy utilization by Language Models (LLMs). Clean, structured data is the foundation.</p></li>
+<li><p><strong>Transformation</strong>: Convert data into a mathematical representation. Think of it as creating a bridge between raw data and actionable insights.</p></li>
+<li><p><strong>Data Contracts</strong>: Implement data contracts to ensure trust and seamless integration. Treat data like a valuable product with clear terms and conditions.</p></li>
+</ol>
+</section>
+<section id="the-tipping-point" class="level2">
+<h2 class="anchored" data-anchor-id="the-tipping-point"><strong>The Tipping Point</strong></h2>
+<p>When will your organization start reaping the benefits of data contracts and data-as-a-product? Look for that tipping point—the moment when data maturity unlocks efficiency, collaboration, and innovation.</p>
+<p>Remember, the data mesh isn’t just a buzzword; it’s a strategic shift. So, embrace the evolution, treat data as your prized product, and watch your organization thrive!</p>
+<p>🔗 <a href="https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html">Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity</a></p>
+<p><img src="https://www.chadyou.com/blog/20240616-unlocking-data-maturity-journey-data-as-a-product/20240616.jpg" class="img-fluid"></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>data</category>
+  <category>product</category>
+  <category>maturity</category>
+  <category>contract</category>
+  <guid>https://www.chadyou.com/blog/20240616-unlocking-data-maturity-journey-data-as-a-product/</guid>
+  <pubDate>Sun, 16 Jun 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>How to make your scientific data accessible, discoverable and useful</title>
   <link>https://www.chadyou.com/blog/20240614-how-to-make-scientific-data-accessible-discoverable-useful/</link>

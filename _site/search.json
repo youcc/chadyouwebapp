@@ -53,7 +53,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "How to make your scientific data accessible, discoverable and useful\n\n\n\n\n\n\ndata\n\n\nmanagement\n\n\nnature\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImmPort Shared Data\n\n\n\n\n\n\ndata\n\n\nimmunology\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nThe Great CEO Within\n\n\n\n\n\n\nebook\n\n\nleadership\n\n\nCEO\n\n\nChinese\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive 2024 KIDS Count Data Book\n\n\n\n\n\n\ndata\n\n\nwebsite\n\n\nhealth\n\n\nebook\n\n\nvisualization\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation Health Curriculum\n\n\n\n\n\n\ncourse\n\n\nwebsite\n\n\npopulation\n\n\nhealth\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBear With AI\n\n\n\n\n\n\nAI\n\n\nwebsite\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create a personal website using Quarto and Azure\n\n\n\n\n\n\nhowto\n\n\nQuarto\n\n\nAzure\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Nielsen’s free ebook collection\n\n\n\n\n\n\nfree\n\n\nebook\n\n\nAI\n\n\n\n\n\n\n\n\n\nJun 9, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nChad You\n\n\n\n\n\n\nNo matching items"
+    "text": "Unlocking Data Maturity: A Journey Toward Data-as-a-Product\n\n\n\n\n\n\ndata\n\n\nproduct\n\n\nmaturity\n\n\ncontract\n\n\n\n\n\n\n\n\n\nJun 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHow to make your scientific data accessible, discoverable and useful\n\n\n\n\n\n\ndata\n\n\nmanagement\n\n\nnature\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImmPort Shared Data\n\n\n\n\n\n\ndata\n\n\nimmunology\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nThe Great CEO Within\n\n\n\n\n\n\nebook\n\n\nleadership\n\n\nCEO\n\n\nChinese\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive 2024 KIDS Count Data Book\n\n\n\n\n\n\ndata\n\n\nwebsite\n\n\nhealth\n\n\nebook\n\n\nvisualization\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation Health Curriculum\n\n\n\n\n\n\ncourse\n\n\nwebsite\n\n\npopulation\n\n\nhealth\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBear With AI\n\n\n\n\n\n\nAI\n\n\nwebsite\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create a personal website using Quarto and Azure\n\n\n\n\n\n\nhowto\n\n\nQuarto\n\n\nAzure\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Nielsen’s free ebook collection\n\n\n\n\n\n\nfree\n\n\nebook\n\n\nAI\n\n\n\n\n\n\n\n\n\nJun 9, 2024\n\n\nChad You\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nChad You\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/20240608_welcome/index.html",
@@ -166,5 +166,40 @@
     "title": "ImmPort Shared Data",
     "section": "",
     "text": "ImmPort Shared Data, open-access immunology datasets created by NIH and other investigators.\n🔗 ImmPort Shared Data"
+  },
+  {
+    "objectID": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html",
+    "href": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html",
+    "title": "Unlocking Data Maturity: A Journey Toward Data-as-a-Product",
+    "section": "",
+    "text": "In the ever-evolving landscape of data management, the concept of the data mesh has gained significant traction. But how do organizations practically embark on this transformation? Olivier Wulveryck sheds light on a novel approach that combines evolutionary thinking with data maturity. Buckle up as we explore the path to treating data as a product!\n\n\n\n\nDomain-Oriented Design: Start by aligning your data mesh with existing organizational structures. Think of it as laying the groundwork for a comprehensive understanding of your data landscape.\nData-as-a-Product: Imagine data as a tangible product, with clear ownership, quality standards, and value propositions. This mindset shift is crucial for successful data mesh adoption.\nFederated Computational Governance: Simplify development by enabling self-service data platforms. These platforms empower teams to create interconnections seamlessly.\nSelf-Service Data Platforms: These platforms are enablers, supporting the data mesh vision. They allow teams to access, explore, and utilize data efficiently.\n\n\n\n\nDrawing inspiration from Simon Wardley’s evolution model, we visualize data maturity within a business context. Here’s how it works:\n\nData Acquisition: Prepare data for easy utilization by Language Models (LLMs). Clean, structured data is the foundation.\nTransformation: Convert data into a mathematical representation. Think of it as creating a bridge between raw data and actionable insights.\nData Contracts: Implement data contracts to ensure trust and seamless integration. Treat data like a valuable product with clear terms and conditions.\n\n\n\n\nWhen will your organization start reaping the benefits of data contracts and data-as-a-product? Look for that tipping point—the moment when data maturity unlocks efficiency, collaboration, and innovation.\nRemember, the data mesh isn’t just a buzzword; it’s a strategic shift. So, embrace the evolution, treat data as your prized product, and watch your organization thrive!\n🔗 Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity"
+  },
+  {
+    "objectID": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#introduction",
+    "href": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#introduction",
+    "title": "Unlocking Data Maturity: A Journey Toward Data-as-a-Product",
+    "section": "",
+    "text": "In the ever-evolving landscape of data management, the concept of the data mesh has gained significant traction. But how do organizations practically embark on this transformation? Olivier Wulveryck sheds light on a novel approach that combines evolutionary thinking with data maturity. Buckle up as we explore the path to treating data as a product!"
+  },
+  {
+    "objectID": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#the-four-pillars-of-data-mesh",
+    "href": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#the-four-pillars-of-data-mesh",
+    "title": "Unlocking Data Maturity: A Journey Toward Data-as-a-Product",
+    "section": "",
+    "text": "Domain-Oriented Design: Start by aligning your data mesh with existing organizational structures. Think of it as laying the groundwork for a comprehensive understanding of your data landscape.\nData-as-a-Product: Imagine data as a tangible product, with clear ownership, quality standards, and value propositions. This mindset shift is crucial for successful data mesh adoption.\nFederated Computational Governance: Simplify development by enabling self-service data platforms. These platforms empower teams to create interconnections seamlessly.\nSelf-Service Data Platforms: These platforms are enablers, supporting the data mesh vision. They allow teams to access, explore, and utilize data efficiently."
+  },
+  {
+    "objectID": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#applying-evolutionary-models-to-data",
+    "href": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#applying-evolutionary-models-to-data",
+    "title": "Unlocking Data Maturity: A Journey Toward Data-as-a-Product",
+    "section": "",
+    "text": "Drawing inspiration from Simon Wardley’s evolution model, we visualize data maturity within a business context. Here’s how it works:\n\nData Acquisition: Prepare data for easy utilization by Language Models (LLMs). Clean, structured data is the foundation.\nTransformation: Convert data into a mathematical representation. Think of it as creating a bridge between raw data and actionable insights.\nData Contracts: Implement data contracts to ensure trust and seamless integration. Treat data like a valuable product with clear terms and conditions."
+  },
+  {
+    "objectID": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#the-tipping-point",
+    "href": "blog/20240616-unlocking-data-maturity-journey-data-as-a-product/index.html#the-tipping-point",
+    "title": "Unlocking Data Maturity: A Journey Toward Data-as-a-Product",
+    "section": "",
+    "text": "When will your organization start reaping the benefits of data contracts and data-as-a-product? Look for that tipping point—the moment when data maturity unlocks efficiency, collaboration, and innovation.\nRemember, the data mesh isn’t just a buzzword; it’s a strategic shift. So, embrace the evolution, treat data as your prized product, and watch your organization thrive!\n🔗 Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity"
   }
 ]

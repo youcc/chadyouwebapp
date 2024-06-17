@@ -250,15 +250,19 @@
 
 
 
-<p><img src="https://www.chadyou.com/blog/20240610-create-website-using-quarto-azure/202406101.jpg" class="img-fluid"></p>
-<p>Here are the basics about how to create a personal website using Quarto and Azure.</p>
-<ol type="1">
-<li><p>Buy a domain on <a href="https://www.namecheap.com/">namecheap.com</a>.</p></li>
-<li><p><a href="https://quarto.org/docs/websites/">Create a website project using Quarto</a>.</p></li>
-<li><p>Publish your project to GitHub.</p></li>
-<li><p>Create a static web app using Azure Static Web Apps.</p></li>
-<li><p>Set up domain DNS in namecheap.com.</p></li>
-</ol>
+<p>Creating a website is very easy and simple if you are not a programmer. Here are the steps about how to create a personal website using Quarto and Azure.</p>
+<p><strong>1. Buy a domain name</strong></p>
+<ul>
+<li><p>Namecheap price is cheaper than big name like GoDaddy. The website is very to use. Let’s go with <a href="https://www.namecheap.com/">namecheap.com</a>.</p></li>
+<li><p>Click “SIGN UP” to create an account. <img src="https://www.chadyou.com/blog/20240610-create-website-using-quarto-azure/202406102.jpg" class="img-fluid"></p></li>
+</ul>
+<p><strong>2. Create a website project using Quarto in local</strong></p>
+<ul>
+<li><a href="https://quarto.org/docs/websites/">Create a website project using Quarto</a>.</li>
+</ul>
+<p><strong>3. Publish your project to GitHub</strong></p>
+<p><strong>4. Create a static web app using Azure Static Web Apps</strong></p>
+<p><strong>5. Set up domain DNS in namecheap.com</strong></p>
 
 
 

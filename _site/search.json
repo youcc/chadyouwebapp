@@ -109,7 +109,7 @@
     "href": "blog/20240610-create-website-using-quarto-azure/index.html",
     "title": "How to create a personal website using Quarto and Azure",
     "section": "",
-    "text": "Creating a website is very easy and simple if you are not a programmer. Here are the steps about how to create a personal website using Quarto and Azure.\n1. Buy a domain name\n\nNamecheap price is cheaper than big name like GoDaddy. The website is very to use. Let’s go with namecheap.com.\nClick “SIGN UP” to create an account. \n\n2. Create a website project using Quarto in local\n\nCreate a website project using Quarto.\n\n3. Publish your project to GitHub\n4. Create a static web app using Azure Static Web Apps\n5. Set up domain DNS in namecheap.com"
+    "text": "Creating a website is very easy and simple if you are not a programmer. Here are the steps about how to create a personal website using Quarto and Azure."
   },
   {
     "objectID": "blog/20240612-population-health-course/index.html",
@@ -201,5 +201,40 @@
     "title": "Unlocking Data Maturity: A Journey Toward Data-as-a-Product",
     "section": "",
     "text": "When will your organization start reaping the benefits of data contracts and data-as-a-product? Look for that tipping point—the moment when data maturity unlocks efficiency, collaboration, and innovation.\nRemember, the data mesh isn’t just a buzzword; it’s a strategic shift. So, embrace the evolution, treat data as your prized product, and watch your organization thrive!\n🔗 Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity"
+  },
+  {
+    "objectID": "blog/20240610-create-website-using-quarto-azure/index.html#buy-a-domain-name",
+    "href": "blog/20240610-create-website-using-quarto-azure/index.html#buy-a-domain-name",
+    "title": "How to create a personal website using Quarto and Azure",
+    "section": "1. Buy a domain name",
+    "text": "1. Buy a domain name\n\nNamecheap is cheaper than big names like GoDaddy. The website is very to use. Let’s go with namecheap.com.\nClick “SIGN UP” to create an account."
+  },
+  {
+    "objectID": "blog/20240610-create-website-using-quarto-azure/index.html#create-a-website-project-using-quarto-in-local",
+    "href": "blog/20240610-create-website-using-quarto-azure/index.html#create-a-website-project-using-quarto-in-local",
+    "title": "How to create a personal website using Quarto and Azure",
+    "section": "2. Create a website project using Quarto in local",
+    "text": "2. Create a website project using Quarto in local\n\nFollow the instruction on Quarto, Create a website project using Quarto.\nYou can use either VS Code, RStudio, or Terminal to run Quarto. Choose your favoriate."
+  },
+  {
+    "objectID": "blog/20240610-create-website-using-quarto-azure/index.html#publish-your-project-to-github",
+    "href": "blog/20240610-create-website-using-quarto-azure/index.html#publish-your-project-to-github",
+    "title": "How to create a personal website using Quarto and Azure",
+    "section": "3. Publish your project to GitHub",
+    "text": "3. Publish your project to GitHub\n\nIf you have a GitHub account, create a new repo from your Quarto project directory, commit the changes, then push to GitHub."
+  },
+  {
+    "objectID": "blog/20240610-create-website-using-quarto-azure/index.html#create-a-static-web-app-using-azure-static-web-apps",
+    "href": "blog/20240610-create-website-using-quarto-azure/index.html#create-a-static-web-app-using-azure-static-web-apps",
+    "title": "How to create a personal website using Quarto and Azure",
+    "section": "4. Create a static web app using Azure Static Web Apps",
+    "text": "4. Create a static web app using Azure Static Web Apps\n\nFollow this instruction to publish your website using Azure Static Web Apps. Quickstart: Build your first static site with Azure Static Web Apps"
+  },
+  {
+    "objectID": "blog/20240610-create-website-using-quarto-azure/index.html#set-up-domain-dns-in-namecheap",
+    "href": "blog/20240610-create-website-using-quarto-azure/index.html#set-up-domain-dns-in-namecheap",
+    "title": "How to create a personal website using Quarto and Azure",
+    "section": "5. Set up domain DNS in namecheap",
+    "text": "5. Set up domain DNS in namecheap\n\nCopy your app link from Azure Portal under Custom domains. \nOpen the Advanced DNS tab in your namecheap account, creat a new “CNAME Record” and add the app link as below.\n\nset Host as “www”.\nset TTL as “5 min”"
   }
 ]

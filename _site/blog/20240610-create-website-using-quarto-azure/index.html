@@ -294,7 +294,17 @@ ul.task-list li input[type="checkbox"] {
   <!-- End Brevo Form -->
    
 </div></div>
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#buy-a-domain-name" id="toc-buy-a-domain-name" class="nav-link active" data-scroll-target="#buy-a-domain-name">1. Buy a domain name</a></li>
+  <li><a href="#create-a-website-project-using-quarto-in-local" id="toc-create-a-website-project-using-quarto-in-local" class="nav-link" data-scroll-target="#create-a-website-project-using-quarto-in-local">2. Create a website project using Quarto in local</a></li>
+  <li><a href="#publish-your-project-to-github" id="toc-publish-your-project-to-github" class="nav-link" data-scroll-target="#publish-your-project-to-github">3. Publish your project to GitHub</a></li>
+  <li><a href="#create-a-static-web-app-using-azure-static-web-apps" id="toc-create-a-static-web-app-using-azure-static-web-apps" class="nav-link" data-scroll-target="#create-a-static-web-app-using-azure-static-web-apps">4. Create a static web app using Azure Static Web Apps</a></li>
+  <li><a href="#set-up-domain-dns-in-namecheap" id="toc-set-up-domain-dns-in-namecheap" class="nav-link" data-scroll-target="#set-up-domain-dns-in-namecheap">5. Set up domain DNS in namecheap</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -304,20 +314,47 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Creating a website is very easy and simple if you are not a programmer. Here are the steps about how to create a personal website using Quarto and Azure.</p>
-<p><strong>1. Buy a domain name</strong></p>
+<section id="buy-a-domain-name" class="level2">
+<h2 class="anchored" data-anchor-id="buy-a-domain-name">1. Buy a domain name</h2>
 <ul>
-<li><p>Namecheap price is cheaper than big name like GoDaddy. The website is very to use. Let’s go with <a href="https://www.namecheap.com/">namecheap.com</a>.</p></li>
+<li><p>Namecheap is cheaper than big names like GoDaddy. The website is very to use. Let’s go with <a href="https://www.namecheap.com/">namecheap.com</a>.</p></li>
 <li><p>Click “SIGN UP” to create an account. <img src="202406102.jpg" class="img-fluid"></p></li>
 </ul>
-<p><strong>2. Create a website project using Quarto in local</strong></p>
+</section>
+<section id="create-a-website-project-using-quarto-in-local" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-website-project-using-quarto-in-local">2. Create a website project using Quarto in local</h2>
 <ul>
-<li><a href="https://quarto.org/docs/websites/">Create a website project using Quarto</a>.</li>
+<li><p>Follow the instruction on Quarto, <a href="https://quarto.org/docs/websites/">Create a website project using Quarto</a>.</p></li>
+<li><p>You can use either VS Code, RStudio, or Terminal to run Quarto. Choose your favoriate.</p></li>
 </ul>
-<p><strong>3. Publish your project to GitHub</strong></p>
-<p><strong>4. Create a static web app using Azure Static Web Apps</strong></p>
-<p><strong>5. Set up domain DNS in namecheap.com</strong></p>
+<p><img src="202406101.jpg" class="img-fluid"></p>
+</section>
+<section id="publish-your-project-to-github" class="level2">
+<h2 class="anchored" data-anchor-id="publish-your-project-to-github">3. Publish your project to GitHub</h2>
+<ul>
+<li>If you have a <a href="https://github.com/">GitHub</a> account, create a new repo from your Quarto project directory, commit the changes, then push to GitHub.</li>
+</ul>
+</section>
+<section id="create-a-static-web-app-using-azure-static-web-apps" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-static-web-app-using-azure-static-web-apps">4. Create a static web app using Azure Static Web Apps</h2>
+<ul>
+<li>Follow this instruction to publish your website using Azure Static Web Apps. <a href="https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript">Quickstart: Build your first static site with Azure Static Web Apps</a></li>
+</ul>
+</section>
+<section id="set-up-domain-dns-in-namecheap" class="level2">
+<h2 class="anchored" data-anchor-id="set-up-domain-dns-in-namecheap">5. Set up domain DNS in namecheap</h2>
+<ul>
+<li><p>Copy your app link from Azure Portal under Custom domains. <img src="202406103.jpg" class="img-fluid"></p></li>
+<li><p>Open the Advanced DNS tab in your namecheap account, creat a new “CNAME Record” and add the app link as below.</p>
+<ul>
+<li>set Host as “www”.</li>
+<li>set TTL as “5 min”</li>
+</ul></li>
+</ul>
+<p><img src="202406104.jpg" class="img-fluid"></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -10,7 +10,28 @@
 <atom:link href="https://www.chadyou.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.42</generator>
-<lastBuildDate>Sun, 16 Jun 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Jun 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Documenso - Open Source DocuSign alternative</title>
+  <link>https://www.chadyou.com/blog/20240617-docusign-alternative-open-source/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Documenso, open source DocuSign alternative.</p>
+<p>🔗 <a href="https://github.com/documenso/documenso">Documenso</a></p>
+<p><img src="https://www.chadyou.com/blog/20240617-docusign-alternative-open-source/20240617.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>open source</category>
+  <category>document</category>
+  <guid>https://www.chadyou.com/blog/20240617-docusign-alternative-open-source/</guid>
+  <pubDate>Mon, 17 Jun 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Unlocking Data Maturity: A Journey Toward Data-as-a-Product</title>
   <link>https://www.chadyou.com/blog/20240616-unlocking-data-maturity-journey-data-as-a-product/</link>

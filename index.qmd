@@ -2,7 +2,7 @@
 title: "Chad You"
 about:
   template: solana
-  image: Chad3.jpg
+  image: images/chad3_ai.jpg
   links:
     - icon: twitter
       text: twitter
